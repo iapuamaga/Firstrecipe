@@ -1,0 +1,28 @@
+.recipe {
+  max-width: 190px;
+}
+
+.recipe img {
+  border-radius: 10px;
+}
+
+.recipe h2 {
+  margin: 0;
+  margin-bottom: 5px;
+  font-size: 15px;
+  font-family: Arial;
+  color: gray;
+}
+
+.recipe p {
+  margin-top: 5px;
+  font-size: 15px;
+  font-family: Arial;
+  color: lightgray;
+}
+
+.recipe_section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
